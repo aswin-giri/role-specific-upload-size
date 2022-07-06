@@ -1,0 +1,85 @@
+# Copyright (C) 2021 Role Specific Max Upload Size
+# This file is distributed under the same license as the Role Specific Max Upload Size package.
+msgid ""
+msgstr ""
+"Project-Id-Version: Role Specific Max Upload Size 1.0\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/plugin/role-specific-max-upload-size\n"
+"POT-Creation-Date: 2021-12-12 15:56:06+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2021-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+
+#: includes/admin/class-admin.php:19
+msgid "Role specific Max upload size"
+msgstr ""
+
+#: includes/class-action.php:73
+msgid "Data saved successfully!"
+msgstr ""
+
+#: includes/class-action.php:76
+msgid "Invalid request!"
+msgstr ""
+
+#: templates/admin/settings.php:8
+msgid "Role specific max-upload size"
+msgstr ""
+
+#: templates/admin/settings.php:9
+msgid "This plugin can only change \"Maximum Upload Limit set on WordPress\". Maximum upload limit set by hosting provider can not be changed from this plugin. If you want to change limitation set by hosting provider, we suggest you contact your hosting provider."
+msgstr ""
+
+#: templates/admin/settings.php:18 templates/admin/settings.php:40
+#: templates/admin/settings.php:44
+msgid "MB"
+msgstr ""
+
+#: templates/admin/settings.php:25
+msgid "Save Changes"
+msgstr ""
+
+#: templates/admin/settings.php:26
+msgid "Note"
+msgstr ""
+
+#: templates/admin/settings.php:26
+msgid "Any value bigger than Limitation set by hosting provider will be changed to max upload size set on your server."
+msgstr ""
+
+#: templates/admin/settings.php:33
+msgid "Title"
+msgstr ""
+
+#: templates/admin/settings.php:34
+msgid "Message"
+msgstr ""
+
+#: templates/admin/settings.php:39
+msgid "Maximum Upload Limit set by WordPress"
+msgstr ""
+
+#: templates/admin/settings.php:43
+msgid "Maximum Upload Limit Set By Hosting Provider"
+msgstr ""
+#. Plugin Name of the plugin/theme
+msgid "Role Specific Max Upload Size"
+msgstr ""
+
+#. Plugin URI of the plugin/theme
+msgid "https://wordpress.org/plugins/role-specific-max-upload-size/"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid "A simple plugin that lets you set different \\\"max_upload_size\\\" for each user role on your WordPress site. This is especially helpful if you want your administrator user to have a maximum max_upload_size limit whereas you want your users to upload smaller files."
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "Aswin Giri"
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "https://aswin.com.np"
+msgstr ""
